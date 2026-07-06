@@ -1,2 +1,28 @@
-# 9029184a-parenting-family-customer-te
-Professional parenting WordPress plugin — without the professional price tag.  Regular security updates. Works with WordPress multisite. Compatible with all major WordPress themes and page builders.  ## What's Included  - Parenting &amp; Family Customer Testimonial And Review Display — fully configured and ready to use - Clean admin settings panel with
+# Parenting & Family Customer Testimonial and Review Display WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/6oU4gzaDdbUEbRS7jCcZF3X)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/6oU4gzaDdbUEbRS7jCcZF3X)
+
